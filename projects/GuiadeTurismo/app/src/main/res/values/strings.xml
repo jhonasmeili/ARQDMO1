@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Guia de Turismo</string>
+    <string-array name="Locais">
+        <item>São Paulo</item>
+        <item>Campinas</item>
+        <item>Araraquara</item>
+        <item>Serrana</item>
+        <item>Belo Horizonte</item>
+        <item>Rio de Janeiro</item>
+        <item>Vitória</item>
+        <item>Salvador</item>
+        <item>João Pessoa</item>
+        <item>Curitiba</item>
+    </string-array>
+    <string-array name="Desc">
+        <item>São Paulo é a maior metrópole da América Latina e o principal centro econômico, financeiro e corporativo do Brasil. Fundada em 1554 por jesuítas, a capital paulista transformou-se em uma cidade global que abriga mais de 11,4 milhões de habitantes (chegando a 21 milhões na sua região metropolitana)</item>
+        <item>Campinas é a maior cidade do interior do estado de São Paulo e um dos principais polos tecnológicos, educacionais e econômicos do Brasil. Localizada a cerca de 100 km da capital paulista, a cidade conta com uma população estimada de mais de 1,1 milhão de habitantes (e cerca de 2,6 milhões em sua Região Metropolitana)</item>
+        <item>Araraquara é um importante polo econômico, educacional e de alta qualidade de vida na região central do estado de São Paulo. Conhecida historicamente como a Morada do Sol, a cidade foi fundada em 22 de agosto de 1817 e conta com uma população estimada de mais de 253 mil habitantes</item>
+        <item>Existe.</item>
+        <item>Belo Horizonte é a capital do estado de Minas Gerais e a sexta cidade mais populosa do Brasil, com cerca de 2,3 milhões de habitantes (e mais de 5 milhões em sua região metropolitana). Fundada em 1897, foi a primeira cidade brasileira moderna planejada, erguida para substituir Ouro Preto como o centro político e administrativo do estado</item>
+        <item>O Rio de Janeiro é a segunda maior metrópole do Brasil e um dos destinos turísticos mais famosos e icônicos do mundo. Conhecida internacionalmente como a "Cidade Maravilhosa", a capital fluminense foi fundada em 1565 por portugueses e funcionou como a capital do país por quase dois séculos (de 1763 até a inauguração de Brasília em 1960). Hoje, o município abriga cerca de 6,2 milhões de habitantes (ultrapassando os 12 milhões em sua região metropolitana)</item>
+        <item>Vitória é a capital do estado do Espírito Santo, sendo uma das três únicas ilhas-capitais do Brasil (junto a Florianópolis e São Luís). Fundada em 1551, a cidade possui uma geografia singular composta por um arquipélago de 33 ilhas e uma porção continental, misturando mais de 470 anos de história com modernidade, infraestrutura de ponta e forte dinamismo econômico</item>
+        <item>Salvador é a capital do estado da Bahia e foi a primeira capital do Brasil, fundada em 1549 por Tomé de Sousa. Com cerca de 2,4 milhões de habitantes, é a quinta cidade mais populosa do país e um dos maiores centros culturais, históricos e turísticos do continente americano, destacando-se como o coração da cultura afro-brasileira</item>
+        <item>João Pessoa é a capital do estado da Paraíba e a terceira cidade mais antiga do Brasil, fundada em 1585. Com cerca de 830 mil habitantes, a cidade é mundialmente conhecida por abrigar a Ponta do Seixas, o ponto mais oriental das Américas, onde o "sol nasce primeiro" no continente</item>
+        <item>Curitiba é a capital do estado do Paraná e a maior cidade da Região Sul do Brasil, com cerca de 1,8 milhão de habitantes. Fundada em 1693, a cidade ganhou projeção internacional a partir da década de 1970 por suas inovações urbanísticas, transporte público eficiente e pioneirismo em sustentabilidade, sendo considerada uma das capitais com melhor infraestrutura e qualidade de vida do país</item>
+    </string-array>
+    <string-array name="Coord">
+        <item>geo:0,0?q=São+Paulo</item>
+        <item>geo:0,0?q=Campinas</item>
+        <item>geo:0,0?q=Araraquara</item>
+        <item>geo:0,0?q=Serrana</item>
+        <item>geo:0,0?q=Belo+Horizonte</item>
+        <item>geo:0,0?q=Rio+de+Janeiro</item>
+        <item>geo:0,0?q=Vitória</item>
+        <item>geo:0,0?q=Salvador</item>
+        <item>geo:0,0?q=João+Pessoa</item>
+        <item>geo:0,0?q=Curitiba</item>
+    </string-array>
+</resources>
