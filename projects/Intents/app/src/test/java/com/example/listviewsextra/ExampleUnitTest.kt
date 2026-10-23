@@ -1,4 +1,4 @@
-package com.example.intents
+package com.example.listviewsextra
 
 import org.junit.Test
 
