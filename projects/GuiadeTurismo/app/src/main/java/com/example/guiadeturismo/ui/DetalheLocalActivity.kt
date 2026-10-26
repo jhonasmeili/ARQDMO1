@@ -15,6 +15,9 @@ class DetalheLocalActivity : AppCompatActivity(){
         super.onCreate(savedInstanceState)
         binding = ActivityDetalheLocalBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        loadData()
+        setupViews()
+        setupListeners()
     }
 
     fun loadData(){
@@ -24,7 +27,6 @@ class DetalheLocalActivity : AppCompatActivity(){
     fun setupViews(){
         binding.tvNome.text = local.nome
         binding.tvDesc.text = local.desc
-        binding.tvCoord.text = local.desc
         binding.imgFoto.setImageResource(local.foto)
     }
 

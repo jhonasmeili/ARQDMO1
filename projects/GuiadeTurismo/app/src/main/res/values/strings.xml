@@ -36,4 +36,13 @@
         <item>geo:0,0?q=João+Pessoa</item>
         <item>geo:0,0?q=Curitiba</item>
     </string-array>
+    <string name="titulo">Guia de Turismo</string>
+    <string name="dev">Desenvolvido por Antônio Francis na Disciplina ARQDMO1</string>
+    <string name="btnLigar">Agendar Viagem por Telefone</string>
+    <string name="btnEmail">Agendar Viagem por Email</string>
+    <string name="btnMaps">Ver Local no Maps</string>
+    <string name="btnVoltar">Voltar</string>
+    <string name="defaultNome">Nome do Local</string>
+    <string name="defaultDesc">Descrição do Local</string>
+    <string name="defaultLocal">Local</string>
 </resources>

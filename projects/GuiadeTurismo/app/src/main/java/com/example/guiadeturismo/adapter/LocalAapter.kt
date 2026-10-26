@@ -20,11 +20,9 @@ class LocalAapter(
         val imgFoto = itemView.findViewById<ImageView>(R.id.imgFoto)
         val tvNome = itemView.findViewById<TextView>(R.id.tvNome)
         val tvDesc = itemView.findViewById<TextView>(R.id.tvDesc)
-        val tvCoord = itemView.findViewById<TextView>(R.id.tvCoord)
         imgFoto.setImageResource(local.foto)
         tvNome.text = local.nome
         tvDesc.text = local.desc
-        tvCoord.text = local.coord
         return itemView
     }
 }
