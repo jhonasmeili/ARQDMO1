@@ -4,7 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import com.example.guiadeturismo.R
-import com.example.guiadeturismo.adapter.LocalAapter
+import com.example.guiadeturismo.adapter.LocalAdapterMain
 import com.example.guiadeturismo.databinding.ActivityMainBinding
 import com.example.guiadeturismo.model.Local
 
@@ -93,7 +93,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     fun setupViews(){
-        val adapter = LocalAapter(this, locais)
+        val adapter = LocalAdapterMain(this, locais)
         binding.listViewLocais.adapter = adapter
     }
 
