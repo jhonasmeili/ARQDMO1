@@ -8,7 +8,8 @@ import androidx.room.Update
 import com.example.persistencia.model.Contato
 
 @Dao
-interface ContatoDao {
+interface ContatoDAO {
+
     @Insert
     suspend fun inserir(contato: Contato)
 

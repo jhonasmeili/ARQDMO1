@@ -9,7 +9,7 @@ data class Contato(
     @PrimaryKey(autoGenerate = true)
     val id: Int = 0,
 
-    val foto: Int,
+    val foto: String,
     val nome: String,
     val telefone: String,
     val email: String

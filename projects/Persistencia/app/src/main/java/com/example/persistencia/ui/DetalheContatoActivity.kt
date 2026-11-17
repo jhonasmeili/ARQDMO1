@@ -27,7 +27,7 @@ class DetalheContatoActivity : AppCompatActivity() {
         binding.tvNome.text = contato.nome
         binding.tvTelefone.text = contato.telefone
         binding.tvEmail.text = contato.email
-        binding.imgFoto.setImageResource(contato.foto)
+        binding.imgFoto.setImageURI(contato.foto.toUri())
     }
     private fun setupListeners() {
         binding.btnLigar.setOnClickListener {

@@ -12,5 +12,13 @@ class CadastroContatoActivity : AppCompatActivity(){
         binding = ActivityCadastroContatoBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        setupListeners()
+
+    }
+
+    fun setupListeners() {
+        binding.btnEntrar.setOnClickListener(){
+            finish()
+        }
     }
 }
