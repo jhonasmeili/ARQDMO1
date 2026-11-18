@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Catalogo de Cursos</string>
+    <string name="title">Catalogo de Cursos</string>
+    <string name="buscar">Buscar por Curso</string>
+    <string name="dev">Aplicativo desenvolvido por Antônio Francis na Diciplina ARQDMO1</string>
+    <string name="adicionar">Adicionar Curso</string>
+    <string name="nome_curso">Nome do Curso</string>
+    <string name="periodo">Periodo</string>
+    <string name="desc">Descrição</string>
+    <string name="voltar">Voltar</string>
+    <string name="link">https://www.arq.ifsp.edu.br/</string>
+    <string name="inscrever">Inscrever-se neste Curso</string>
+</resources>
